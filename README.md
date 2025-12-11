@@ -337,7 +337,5 @@ project root.
 If you have questions about this repository or the analysis, please contact
 me at:
 
-* Name: *[Your Name]*
-* Email: *[Your UB email]*
-
-(Replace the placeholders above before submitting.)
+* Name: Harsh Mahesh Tikone
+* Email: htikone@buffalo.edu
